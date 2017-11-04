@@ -9,7 +9,7 @@ This repository contains code for movie review sentiment analysis as positive or
 https://www.anaconda.com/download/#linux
 
 * Gensim 2.3.0
-https://radimrehurek.com/gensim/install.html
+https://radimrehurek.com/gensim/install.html 
 Note : The gensim library itself has many dependencies and they must be installed too. Please go to above link for details.
 
 The code has been tested on Ubuntu 14.04 LTS.
